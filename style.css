@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.main-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-item{
+    padding:12px 17px;
+    margin: 2px;
+    background-color: darkcyan;
+    color: white;
+    border-radius: 50%;
+}
+input{
+    border: none;
+    background-color: darkcyan;
+    margin-bottom: 10px;
+    height: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
